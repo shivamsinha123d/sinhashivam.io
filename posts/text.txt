@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Day 1: Hello World in C</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <ul class="menu">
+    <li><a href="../intro.html">Home</a></li>
+    <li><a href="https://github.com/shivamsinha123d" target="_blank">
+            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle;">
+            GitHub
+        </a>
+    </li>    
+    <li><a href="../social.html">Social</a></li>
+  </ul>
+
+  <div >
+    <ul class="fullblog">
+    <h1>Day 1: Hello World in C</h1>
+    <small>Posted on May 30, 2025</small>
+    <p>Today I wrote my first program in C. It prints "Hello, World!"  very exciting!</p>
+    </ul>
+  </div>
+  <!--socialmedia--> 
+    
+    <ul class = "socialmedia">
+        
+        
+        <li> <a href="https://github.com/shivamsinha123d"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle;">Github</a></li>
+        <li><a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="20" style="vertical-align: middle;">Twitter</a></li>
+        <li><a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="20" style="vertical-align: middle;">LinkedIn</a></li>
+        <li><a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="20" style="vertical-align: middle;">Youtube</a></li>
+        <li><a href="mailto:shvm123d@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg "width="20" style="vertical-align: middle;" >Mail</a></li>
+    </ul>
+    
+</body>
+</html>
